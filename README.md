@@ -6,9 +6,9 @@ Our web's url: https://cmufleamarkets.com/
 ####Sandbox PayPal account used for purchase: 
     Account: sb-hwive1317508@personal.example.com
     Password: odrr0#AI
-
-This is the final project for Web Application Development and cooperated with Jiacheng Sun, Yuyang Fan and Qian Cheng.
+    
 The primaty goal is to construct a second hand item trading web application with Django backend framework and RESTful routing. 
+This is the final project for Web Application Development and cooperated with Jiacheng Sun, Yuyang Fan and Qian Cheng.
 
 Primary Features:
 - User Registeration
