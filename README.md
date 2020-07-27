@@ -32,3 +32,31 @@ Primary Features:
 - GCP Google Compute Engine
 
 
+
+### Demo:
+* Main Page
+ 
+![Alt text](https://github.com/ShenglongZ/Flea_Market_Webapp/blob/master/images/Main.png "Main Page")
+
+
+* Selected Item
+
+![Alt text](https://github.com/ShenglongZ/Flea_Market_Webapp/blob/master/images/ItemDisplay.png "Item Display")
+
+
+* User Favorite
+
+![Alt text](https://github.com/ShenglongZ/Flea_Market_Webapp/blob/master/images/SetFav.png "User Favorite")
+
+
+* Item Upload
+
+![Alt text](https://github.com/ShenglongZ/Flea_Market_Webapp/blob/master/images/Upload.png "Item Upload")
+
+
+* User Profile
+
+![Alt text](https://github.com/ShenglongZ/Flea_Market_Webapp/blob/master/images/Profile.png "User Profile")
+
+
+
