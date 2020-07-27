@@ -37,34 +37,34 @@ Primary Features:
 ### Demo:
 * Main Page
  
-![Alt text](https://github.com/ShenglongZ/Flea_Market_Webapp/blob/master/images/MainPage.png "Main Page")
+![image](https://github.com/ShenglongZ/Flea_Market_Webapp/blob/master/images/MainPage.png "Main Page")
 
 
 * Selected Item
 
-![Alt text](https://github.com/ShenglongZ/Flea_Market_Webapp/blob/master/images/ItemDisplay.png "Item Display")
+![image](https://github.com/ShenglongZ/Flea_Market_Webapp/blob/master/images/ItemDisplay.png "Item Display")
 
 
 * User Favorite
 
-![Alt text](https://github.com/ShenglongZ/Flea_Market_Webapp/blob/master/images/SetFav.png "User Favorite")
+![image](https://github.com/ShenglongZ/Flea_Market_Webapp/blob/master/images/SetFav.png "User Favorite")
 
 
 * Item Upload
 
-![Alt text](https://github.com/ShenglongZ/Flea_Market_Webapp/blob/master/images/UploadItem.png "Item Upload")
+![image](https://github.com/ShenglongZ/Flea_Market_Webapp/blob/master/images/UploadItem.png "Item Upload")
 
 
 * User Profile
 
-![Alt text](https://github.com/ShenglongZ/Flea_Market_Webapp/blob/master/images/Profile.png "User Profile")
+![image](https://github.com/ShenglongZ/Flea_Market_Webapp/blob/master/images/Profile.png "User Profile")
 
 
 * User Transections
 
-![Alt text](https://github.com/ShenglongZ/Flea_Market_Webapp/blob/master/images/Transection.png "User Transections")
+![image](https://github.com/ShenglongZ/Flea_Market_Webapp/blob/master/images/Transection.png "User Transections")
 
 
 * User Bought Item
 
-![Alt text](https://github.com/ShenglongZ/Flea_Market_Webapp/blob/master/images/Bought_Product.png "Bought Item")
+![image](https://github.com/ShenglongZ/Flea_Market_Webapp/blob/master/images/Bought_Product.png "Bought Item")
