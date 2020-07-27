@@ -1,6 +1,0 @@
-django-haystack==3.0b1
-whoosh
-googlemaps
-django-paypal
-django-star-ratings
-django-environ
