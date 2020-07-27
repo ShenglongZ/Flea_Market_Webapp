@@ -36,7 +36,7 @@ Primary Features:
 ### Demo:
 * Main Page
  
-![Alt text](https://github.com/ShenglongZ/Flea_Market_Webapp/blob/master/images/Main.png "Main Page")
+![Alt text](https://github.com/ShenglongZ/Flea_Market_Webapp/blob/master/images/MainPage.png "Main Page")
 
 
 * Selected Item
@@ -51,7 +51,7 @@ Primary Features:
 
 * Item Upload
 
-![Alt text](https://github.com/ShenglongZ/Flea_Market_Webapp/blob/master/images/Upload.png "Item Upload")
+![Alt text](https://github.com/ShenglongZ/Flea_Market_Webapp/blob/master/images/UploadItem.png "Item Upload")
 
 
 * User Profile
@@ -59,4 +59,11 @@ Primary Features:
 ![Alt text](https://github.com/ShenglongZ/Flea_Market_Webapp/blob/master/images/Profile.png "User Profile")
 
 
+* User Transections
 
+![Alt text](https://github.com/ShenglongZ/Flea_Market_Webapp/blob/master/images/Transection.png "User Transections")
+
+
+* User Bought Item
+
+![Alt text](https://github.com/ShenglongZ/Flea_Market_Webapp/blob/master/images/Bought_Product.png "Bought Item")
