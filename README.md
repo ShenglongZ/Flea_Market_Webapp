@@ -27,6 +27,7 @@ Primary Features:
 - Google Cloud API
 - Google Map API
 - PayPal API
+- AJAX
 
 ### Deployment: 
 - GCP Google Compute Engine
