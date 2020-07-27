@@ -18,18 +18,17 @@ Primary Features:
 - Geo-location and route recommendation. 
 - Customer review and comments.
 
-Front-end:
-Bootstrap 4
+# Front-end:
+- Bootstrap 4
 
-Back-end:
-Django 
-MySQL
-Google Cloud API
-Google Map API
-PayPal API
+# Back-end:
+- Django 
+- MySQL
+- Google Cloud API
+- Google Map API
+- PayPal API
 
-Deployment: 
-GCP Google Compute Engine
+# Deployment: 
+- GCP Google Compute Engine
 
-Copp
-For post page, you could upload multiple pictures when you post item.
+
