@@ -18,17 +18,17 @@ Primary Features:
 - Geo-location and route recommendation. 
 - Customer review and comments.
 
-# Front-end:
+### Front-end:
 - Bootstrap 4
 
-# Back-end:
+### Back-end:
 - Django 
 - MySQL
 - Google Cloud API
 - Google Map API
 - PayPal API
 
-# Deployment: 
+### Deployment: 
 - GCP Google Compute Engine
 
 
