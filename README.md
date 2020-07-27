@@ -2,7 +2,7 @@
 
     
 The primaty goal is to construct a second hand item trading web application with Django backend framework and RESTful routing. 
-This is the final project for Web Application Development and cooperated with Jiacheng Sun, Yuyang Fan and Qian Cheng.
+This is the final project for Web Application Development and cooperated with Jiacheng Sun, Qian Cheng and Yuyang Fan.
 
 Primary Features:
 - User Registeration
