@@ -8,7 +8,7 @@ Our web's url: https://cmufleamarkets.com/
     Password: odrr0#AI
 
 This is the final project for Web Application Development and cooperated with Jiacheng Sun, Yuyang Fan and Qian Cheng.
-The primaty goal is to construct a second hand item trading webpage. 
+The primaty goal is to construct a second hand item trading web application. 
 
 Primary Features:
 - User Registeration
